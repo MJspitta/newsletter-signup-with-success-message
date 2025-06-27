@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Newsletter Solution](https://www.frontendmentor.io/solutions/newsletter-signup-with-success-message-7TPZbD4F3G)
+- Live Site URL: [Newsletter Live Site](https://mjspitta.github.io/newsletter-signup-with-success-message/)
 
 ## My process
 
@@ -43,6 +43,7 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
+- Mobile-first Responsive Design
 
 
 ## Author
